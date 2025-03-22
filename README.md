@@ -1,5 +1,6 @@
-![DOOM_TITLE_W](https://doomwiki.org/w/images/c/ce/Doom_title_wide.png)
-# NOX : A Museum WAD to collect and tack my MAPPING Journey 
+![DOOM_TITLE_W](https://doomwiki.org/w/images/c/ce/Doom_title_wide.png)<BR>
+(A Museum WAD to collect and tack my MAPPING Journey)
+# NOX
 
 G'Day aJynks here....
 
