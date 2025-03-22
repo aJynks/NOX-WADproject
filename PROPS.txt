@@ -10,7 +10,7 @@
 
 ## IWAD Path
 ## Sets the path to the IWAD used by this project.
-doommake.iwad=
+doommake.iwad=d:\Projects\Doom Projects\_resources\_doom-engines\_IWADs\doom2.wad
 
 ## Build Directory
 ## Sets the project build directory.
@@ -40,15 +40,15 @@ doommake.file.patch=
 ## Asset WAD
 ## Sets the name of the asset WAD. Created in build directory.
 ## Leave blank for default.
-doommake.file.assets=
+doommake.file.assets=NOX_Assets.wad
 
 ## Map WAD
 ## Sets the name of the output maps WAD. Created in build directory.
 ## Leave blank for default.
-doommake.file.maps=
+doommake.file.maps=NOX_Maps.wad
 
 ## Map Textures WAD
 ## Sets the name of the output WAD for extracted textures. Created in build directory.
 ## Leave blank for default.
-doommake.file.maptex=
+doommake.file.maptex=NOX_Textures.wad
 
