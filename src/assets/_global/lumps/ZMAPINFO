@@ -1,0 +1,5 @@
+defaultmap{
+	nocrouch
+	nojump
+	NoFreelook
+	}

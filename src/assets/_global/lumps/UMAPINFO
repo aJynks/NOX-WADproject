@@ -1,0 +1,30 @@
+// --------------- //
+// E P 1   M A P S //
+// --------------- //
+
+map MAP01 
+{ 
+    levelname = "...and so it begins!"
+	next = "MAP02"
+	levelpic = "ENTER01"
+	skytexture = "EP1SKY"
+	music = "MUSIC01"
+	
+	episode = "EP1TIL","The Universe is DOOMED!", "1"
+}
+
+// --------------- //
+// E P 2   M A P S //
+// --------------- //
+
+map MAP07
+{
+	levelname = "The Heallbound Heart"
+	label = "MAP07"
+	next = "MAP08"
+	levelpic = "ENTER07"
+	music = "MUSIC07"
+	skytexture = "EP1SKY"
+	
+	episode = "EP2TIL", "Way down we go!", "2"
+}

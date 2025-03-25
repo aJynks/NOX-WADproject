@@ -1,1 +1,21 @@
-Put full additional credits here. This will be imported into the release.
+------------ RESOURCES ------------------------------------------------------
+- Blue Skull in Menu: Realm of Chaos 2 WAD (Cammy)  
+- oTex1.1: https://doom.ukiro.com/otex-downloads/ (Ukiro)  
+
+------------ TOOLS ----------------------------------------------------------
+- Mapping: Ultimate Doom Builder  
+- WAD Editor: SLADE  
+- WAD Builder: DoomTools  
+- ASCII Editor: Mobious  
+- Doom Text Generator: https://c.eev.ee/doom-text-generator (Eevee)
+
+------------ ICommunities ---------------------------------------------------
+- DoomWorld
+- zDoom
+- Pacifist Paridise
+- Hellforge
+
+------------ Individuals ----------------------------------------------------
+- Agent_Ash
+- MTrop
+- Taviow

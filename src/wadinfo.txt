@@ -4,7 +4,7 @@ Update to               : What is this updating, if anything?
 Advanced engine needed  : Source Port that This is Targeting
 Primary purpose         : Single play / Co-op / Deathmatch / Other
 ===========================================================================
-Title                   : Title of this Mod
+Title                   : NOX
 Filename                : NOX.WAD
 Release date            : Mnth. Day, Year 
 Author                  : Your Name or Pen Name
