@@ -1,6 +1,12 @@
 ------------ RESOURCES ------------------------------------------------------
 - Blue Skull in Menu: Realm of Chaos 2 WAD (Cammy)  
 - oTex1.1: https://doom.ukiro.com/otex-downloads/ (Ukiro)  
+- Livtext: https://www.doomworld.com/forum/topic/151571-livtex-v13/ (Ludi)
+- muumipack: https://www.doomworld.com/forum/topic/130774-muumipack-v2-muumis-resource-of-animated-textures-big-update-28-animated-skies/ (Muumi)
+- jimmytex.wad: https://www.doomworld.com/forum/topic/90900-post-your-doom-textures/?tab=comments#comment-1672846 (Jimmy²)
+- ImpTxt: *Unknown* (Lost link and credit)
+- aJynks_CustomTextures: (My own original contributions, link when complete) (aJynks)
+
 
 ------------ TOOLS ----------------------------------------------------------
 - Mapping: Ultimate Doom Builder  
